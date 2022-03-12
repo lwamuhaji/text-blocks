@@ -1,0 +1,10 @@
+.panel {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 100px);
+  grid-template-rows: repeat(auto-fill, 100px);
+
+  background-color: wheat;
+  height: 800px;
+  width: 800px;
+  margin: 100px auto;
+}
